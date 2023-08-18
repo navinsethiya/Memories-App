@@ -1,4 +1,4 @@
-import * as api  from '../api';
+import * as api  from '../api/index.js';
 
 import {FETCH_ALL , UPDATE , LIKE, DELETE, CREATE} from '../constants/actionTypes.js';
 // Actions Creators
